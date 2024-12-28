@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733755051 source:c:\users\leith\documents\reservation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
